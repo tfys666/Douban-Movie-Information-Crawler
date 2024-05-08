@@ -34,3 +34,13 @@ In the project root directory, run the following command to start the spider:
 scrapy crawl demo
 ```
 This will start crawling movie information from the Douban movie website and store the results in the defined Item.
+
+## 7. Example
+- url:  
+https://movie.douban.com/subject/36369452/
+
+- results:  
+Movie Name: 飞驰人生2  
+Director: 韩寒 Han Han  
+Author: 韩寒 Han Han  
+Main Actors: 沈腾 Teng Shen, 范丞丞 Chengcheng Fan, 尹正 Zheng Yin
